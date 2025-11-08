@@ -44,6 +44,8 @@ Shipping Delay – Average days between order and delivery.
 5.Built and published a dynamic dashboard showing overall performance.
 
 **Dash Board**
+Dashboard.PNG
+
 
 
 **Final Conclusion**
