@@ -1,4 +1,4 @@
-<img width="1254" height="661" alt="image" src="https://github.com/user-attachments/assets/44dcaeff-292f-4010-abb7-d1e3ccbdccd5" />**SUPER STORE SALES DASHBOARD**
+**SUPER STORE SALES DASHBOARD**
 
 
 **Project Objective**
