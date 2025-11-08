@@ -47,6 +47,7 @@ Shipping Delay – Average days between order and delivery.
 
 <img width="1228" height="715" alt="image" src="https://github.com/user-attachments/assets/114c0a5a-6547-48eb-a9b2-c8cd2af3e6ca" />
 
+
 <img width="1254" height="661" alt="image" src="https://github.com/user-attachments/assets/93f68f1d-2ee1-4072-b080-e5e925b76a23" />
 
 
